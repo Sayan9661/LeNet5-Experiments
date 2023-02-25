@@ -8,8 +8,10 @@ Batch Norm and Dropout are standard techniques used to prevent a model from over
 ## Task
 Trained LeNet-5 while varying Batch Norm and Dropout to see their effects on test and validation accuracy.
 
-## Requirements
+##Dataset
+MNIST
 
+## Requirements
 Jupyter notebook. <br>
 Need Numpy and Pytorch.
 
