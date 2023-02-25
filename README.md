@@ -1,4 +1,4 @@
-# LeNet5-Experiments: Effects of Batch Normalization and dropout on Google LeNet-5 convolutional neural network
+# LeNet5-Experiments: Effects of Batch Normalization and dropout on GoogleLeNet-5 convolutional neural network
 
 This was done as part of High Performance Machine Learning course.<br>
 
@@ -12,5 +12,9 @@ Trained LeNet-5 while varying batch Norm and Dropout to see their effects on tes
 
 It is all in a jupyter notebook <br>
 Need Numpy and Pytorch.
+
+
+### mmiscellaneous Topics
+There were some others tasks about parameter cost calculation of VGG,AlexNet and Inception module.
 
 
