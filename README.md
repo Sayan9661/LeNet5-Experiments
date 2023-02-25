@@ -10,11 +10,11 @@ Trained LeNet-5 while varying Batch Norm and Dropout to see their effects on tes
 
 ## Requirements
 
-It is all in a Jupyter notebook <br>
+Jupyter notebook. <br>
 Need Numpy and Pytorch.
 
 
-### mmiscellaneous Topics
+### Miscellaneous Topics
 There were some others tasks about parameter cost calculation of VGG,AlexNet and Inception module.
 
 
