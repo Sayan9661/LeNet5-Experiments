@@ -15,6 +15,6 @@ Need Numpy and Pytorch.
 
 
 ### Miscellaneous Topics
-There were some other tasks about parameter cost calculation of VGG,AlexNet and Inception module.
+There were some other tasks about parameter cost calculation of VGG, AlexNet and Inception module.
 
 
